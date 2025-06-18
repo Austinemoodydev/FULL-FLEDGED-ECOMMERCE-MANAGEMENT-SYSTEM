@@ -1,0 +1,31 @@
+
+        .product-img {
+            max-width: 100px;
+            height: auto;
+        }
+        .quantity-input {
+            width: 70px;
+            text-align: center;
+        }
+        .summary-card {
+            position: sticky;
+            top: 20px;
+        }
+        .discount-price {
+            text-decoration: line-through;
+            color: #6c757d;
+            font-size: 0.9em;
+        }
+        .stock-status {
+            font-size: 0.8em;
+        }
+        .in-stock {
+            color: #28a745;
+        }
+        .low-stock {
+            color: #ffc107;
+        }
+        .out-of-stock {
+            color: #dc3545;
+        }
+    
