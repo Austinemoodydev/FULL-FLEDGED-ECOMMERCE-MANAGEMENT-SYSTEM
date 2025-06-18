@@ -21,3 +21,9 @@ helpers/: Utility functions like input validation, session handling.
 logs/: Stores error or activity logs.
 
 mail/ and sms/: Email and SMS notification handling.
+# Ecommerce System
+
+## Features:
+- Product management
+- Orders
+- Payments
